@@ -2,19 +2,12 @@
 
 **팀명**: Happyface
 
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
+|[남세현](https://github.com/ntommy11)|[김연주](https://github.com/kimyeondu)|[김준홍](https://github.com/JoonHong-Kim)|[김현수](https://github.com/shawnhyeonsoo)|[안영진](https://github.com/snoop2head)|[전재영](https://github.com/hihellohowareyou)|[최성욱](https://github.com/jjonhwa)|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|
 
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
 
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
 
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
 
 
 ### 1차 가이드라인 및 relation 설정
@@ -65,17 +58,3 @@
 - 데이터셋을 직접 제작해보면서 고품질의 데이터가 얼마나 귀한지에 대한 소중함을 깨달았다.
 - 데이터셋을 구축하는 일반적인 프로세스를 학습하였다.
 - Knowledge Graph구축을 위한 IT기업에 대한 정보를 담은 relation으로 사용할 것으로 기대한다. 특히 대부분의 Relation은 TACRED의 relation을 따르고 있어 TACRED의 relation과 함께 사용할 수 있을것이다. 또한 기업에 특화된 relation인 계약관계를 추가하여 IT기업에 대한 정보와 IT기업간의 관계를 자세히 담아낼 수 있을 것이다.
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
-
-![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)
