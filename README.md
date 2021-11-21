@@ -7,6 +7,11 @@
 |[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/ntommy11)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/kimyeondu)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/JoonHong-Kim)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/shawnhyeonsoo)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/snoop2head)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/hihellohowareyou)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/jjonhwa)|
 
 
+dataset은 data/re.csv 파일을 이용하면 됩니다. 
+데이터의 비율은 다음과 같습니다.
+
+![image](https://user-images.githubusercontent.com/87692784/142753360-d659fe9b-72a7-4337-a9fb-79c4cabd942e.png)
+
 
 
 
