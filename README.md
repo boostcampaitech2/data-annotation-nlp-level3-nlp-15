@@ -4,7 +4,7 @@
 
 |[남세현](https://github.com/ntommy11)|[김연주](https://github.com/kimyeondu)|[김준홍](https://github.com/JoonHong-Kim)|[김현수](https://github.com/shawnhyeonsoo)|[안영진](https://github.com/snoop2head)|[전재영](https://github.com/hihellohowareyou)|[최성욱](https://github.com/jjonhwa)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/ntommy11)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)|
+|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/ntommy11)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/kimyeondu)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/JoonHong-Kim)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/shawnhyeonsoo)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/snoop2head)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/hihellohowareyou)|[![Untitled](https://user-images.githubusercontent.com/30318926/142752785-e6f354d8-7654-42fa-b42a-a89fefcf196b.png)](https://github.com/jjonhwa)|
 
 
 
@@ -34,7 +34,7 @@
 ### 파이럿 태깅 후 Relation 및 가이드라인 수정
 
 - 파일럿 태깅 후 분포가 너무 적거나 의미가 애매한 라벨은 제거하였다.
-- 다른 라벨과 의미가 겹치는'**단체:상위_단체','단체:자회사','단체:모회사'** 3개의 라벨을 제거하고, **'단체:하위_단체'**에 포함하였다.
+- 다른 라벨과 의미가 겹치는'**단체:상위_단체','단체:자회사','단체:모회사'** 3개의 라벨을 제거하고, '**단체:하위_단체**'에 포함하였다.
 - 회사가 만든 제품의 **기능** 같은 경우에는 대명사로 표현이 될 시 '**단체: 제품**' 에 포함시키기로 하였다.
 - 추가로 기업들간의 관계로 계약관계('**단체:계약_단체**')를 추가해서 총 10개의 relation을 설정했다. 이때 기업의 지분 계약(투자, M&A 등)이 아닌 서비스와 재화 제공의 계약 관계로 한정하여서 relation을 설정하였다.
 - **'No_Relation'** 의 경우, 발견한 관계와 비율을 1:1로 설정해 Tagging을 진행했다.
